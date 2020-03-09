@@ -1,0 +1,29 @@
+{
+    "name": "rich-communication-service",
+    "version": "1.0.1",
+    "description": "Rich Communication Services (RCS) is a communication protocol between mobile telephone carriers and between phone and carrier, aiming at replacing SMS messages with a text-message system that is richer, provides phonebook polling (for service discovery), and can transmit in-call multimedia",
+    "main": "index.js",
+    "directories": {
+        "doc": "docs"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/anildalar/node-rcs.git"
+    },
+    "keywords": [
+        "RCS",
+        "rcs",
+        "Rich",
+        "Communication",
+        "Service"
+    ],
+    "author": "Anil Dollor",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/anildalar/node-rcs/issues"
+    },
+    "homepage": "https://github.com/anildalar/node-rcs#readme"
+}
