@@ -3,10 +3,4 @@ Rich Communication Services (RCS) is a communication protocol between mobile tel
 
 
 
-Get Me Touch 
-
-Anil Dollor
-Whatsapp No
-+917999452711
-Skype:-
-anildalar
+Contributors Invited 
